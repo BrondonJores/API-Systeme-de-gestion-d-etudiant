@@ -21,7 +21,7 @@ Architecture observee:
 - `src/main/java/ma/est/dao/Db.java` -> connexion MySQL
 - `src/main/webapp` -> JSP, ressources statiques, bibliotheques
 
-## Fonctionnalites
+## Fonctionnalités
 
 ### 1) Interface de gestion etudiant
 - Afficher la liste des etudiants
